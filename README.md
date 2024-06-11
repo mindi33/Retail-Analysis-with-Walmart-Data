@@ -1,3 +1,8 @@
+2024 한양대학교 정보공학전공 인공지능1 (정철현 교수님)
+2021074648 이수영 (asks0117@naver.com)
+2021028722 이민지 (mindi3540@gmail.com)
+
+
 # Retail Analysis with Walmart Data
 
 1. [Project Motivation](#ProjectMotivation)
